@@ -1,4 +1,4 @@
-# Interactive dashboard for the analysis of store location of Yoshinoya and Starbucks in Japan
+# [Interactive dashboard for the analysis of store location of Yoshinoya and Starbucks in Japan](https://shingobt.github.io/visualization/flexdashboard)
 
 ![gaga](data/screenshot.jpeg)
 
