@@ -1,6 +1,6 @@
 # Interactive dashboard for the analysis of store location of Yoshinoya and Starbucks in Japan
 
-(data/screenshot.jpeg)
+[gaga](data/screenshot.jpeg)
 
 ## About this project
 
